@@ -7,19 +7,19 @@ Screenshots
 
 ## Screenshots
 
-| **Home Page (Desktop)** |
-| ![IPL Dashboard Home Page](https://image2url.com/images/1755818785708-59608f8a-7697-4f52-95fb-19547d978524.jpg) 
+ **Home Page (Desktop)** 
+ ![IPL Dashboard Home Page](https://image2url.com/images/1755818785708-59608f8a-7697-4f52-95fb-19547d978524.jpg) 
 
-| **Team Matches Page (Desktop)** |
-| ![IPL Team Matches Page 1](https://image2url.com/images/1755818818677-d89ad439-4f67-4b2e-9b90-ee844f22d917.jpg) |
-| ![IPL Team Matches Page 2](https://image2url.com/images/1755818851617-f8304156-2488-486c-a482-fb52ca1a5d19.jpg) |
+ **Team Matches Page (Desktop)** 
+ ![IPL Team Matches Page 1](https://image2url.com/images/1755818818677-d89ad439-4f67-4b2e-9b90-ee844f22d917.jpg) 
+ ![IPL Team Matches Page 2](https://image2url.com/images/1755818851617-f8304156-2488-486c-a482-fb52ca1a5d19.jpg) 
 
 
-| **Home Page (Mobile)** | 
-| ![IPL Dashboard Home Page Mobile](https://image2url.com/images/1755818895943-cfa46d2c-47e9-4b5c-a41f-e433c2f1a7fb.jpg) 
+**Home Page (Mobile)** 
+ ![IPL Dashboard Home Page Mobile](https://image2url.com/images/1755818895943-cfa46d2c-47e9-4b5c-a41f-e433c2f1a7fb.jpg) 
 
-| **Team Matches Page (Mobile)** |
-| ![IPL Team Matches Page Mobile](https://image2url.com/images/1755818870039-7bbd792b-9617-4ecc-8c85-d31b78e9a568.jpg) |
+ **Team Matches Page (Mobile)** 
+ ![IPL Team Matches Page Mobile](https://image2url.com/images/1755818870039-7bbd792b-9617-4ecc-8c85-d31b78e9a568.jpg) 
 
 
 
